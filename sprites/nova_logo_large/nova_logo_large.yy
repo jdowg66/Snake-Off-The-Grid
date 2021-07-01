@@ -1,0 +1,171 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 399,
+  "bbox_top": 0,
+  "bbox_bottom": 399,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 400,
+  "height": 400,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"19dd7182-1560-479a-bab9-93d9762597c5","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"19dd7182-1560-479a-bab9-93d9762597c5","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"19dd7182-1560-479a-bab9-93d9762597c5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"24b0906e-2203-4bc4-ad17-b0d644b92fe8","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"24b0906e-2203-4bc4-ad17-b0d644b92fe8","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"24b0906e-2203-4bc4-ad17-b0d644b92fe8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"db08f28f-2352-4738-a2fa-e10014169c63","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"db08f28f-2352-4738-a2fa-e10014169c63","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"db08f28f-2352-4738-a2fa-e10014169c63","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0d9ff1ba-16e1-4a4c-9879-b51474353813","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0d9ff1ba-16e1-4a4c-9879-b51474353813","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"0d9ff1ba-16e1-4a4c-9879-b51474353813","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4b5f33c8-c040-4c4d-a92b-a549393fb43e","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4b5f33c8-c040-4c4d-a92b-a549393fb43e","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"4b5f33c8-c040-4c4d-a92b-a549393fb43e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3523e525-57c0-4ab1-b451-c62149b76497","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3523e525-57c0-4ab1-b451-c62149b76497","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"3523e525-57c0-4ab1-b451-c62149b76497","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d5441635-dce9-49de-a595-cfa4219f1781","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d5441635-dce9-49de-a595-cfa4219f1781","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"d5441635-dce9-49de-a595-cfa4219f1781","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f9b43d76-6ecf-474a-a63c-87afc1251bc2","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f9b43d76-6ecf-474a-a63c-87afc1251bc2","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"f9b43d76-6ecf-474a-a63c-87afc1251bc2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e5971e23-3508-4148-b0df-324b8ba91527","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e5971e23-3508-4148-b0df-324b8ba91527","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"e5971e23-3508-4148-b0df-324b8ba91527","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d25cc3a9-68e0-4447-8404-05cc57d002f4","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d25cc3a9-68e0-4447-8404-05cc57d002f4","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"d25cc3a9-68e0-4447-8404-05cc57d002f4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"19510a1b-b2a6-4606-886f-7fb922f5bbc8","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"19510a1b-b2a6-4606-886f-7fb922f5bbc8","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"19510a1b-b2a6-4606-886f-7fb922f5bbc8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e6869076-21b4-41bf-aca3-2a30eb6ea9e3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e6869076-21b4-41bf-aca3-2a30eb6ea9e3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"e6869076-21b4-41bf-aca3-2a30eb6ea9e3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"19cc6578-db63-4bb8-a959-71529bbdbeeb","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"19cc6578-db63-4bb8-a959-71529bbdbeeb","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"19cc6578-db63-4bb8-a959-71529bbdbeeb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7bdc2fc4-d987-4f5c-93dc-f2e22d20d364","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7bdc2fc4-d987-4f5c-93dc-f2e22d20d364","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"7bdc2fc4-d987-4f5c-93dc-f2e22d20d364","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"948b4abc-0749-4962-b37b-f9857f8d43d2","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"948b4abc-0749-4962-b37b-f9857f8d43d2","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"948b4abc-0749-4962-b37b-f9857f8d43d2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"df242659-c3da-4825-ab93-243cb42bb9df","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"df242659-c3da-4825-ab93-243cb42bb9df","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"df242659-c3da-4825-ab93-243cb42bb9df","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1ef9c1c0-d739-46ce-9e94-4a08cac5e56f","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1ef9c1c0-d739-46ce-9e94-4a08cac5e56f","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"1ef9c1c0-d739-46ce-9e94-4a08cac5e56f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5149dc43-e769-49e1-89fc-be70b7031697","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5149dc43-e769-49e1-89fc-be70b7031697","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"5149dc43-e769-49e1-89fc-be70b7031697","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f376b755-8ae1-4a00-b157-dc9b5f510df1","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f376b755-8ae1-4a00-b157-dc9b5f510df1","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"f376b755-8ae1-4a00-b157-dc9b5f510df1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"74815bfe-0147-443b-91fa-f9b6c7cd20e6","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"74815bfe-0147-443b-91fa-f9b6c7cd20e6","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"74815bfe-0147-443b-91fa-f9b6c7cd20e6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"01964cbb-9544-40c5-ba2c-99b48d159b34","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"01964cbb-9544-40c5-ba2c-99b48d159b34","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"01964cbb-9544-40c5-ba2c-99b48d159b34","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ba497377-f949-492a-b0e5-d329c07bfd50","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ba497377-f949-492a-b0e5-d329c07bfd50","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"ba497377-f949-492a-b0e5-d329c07bfd50","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"df3d20e6-b101-4c5d-9e9e-82a8b8e4f647","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"df3d20e6-b101-4c5d-9e9e-82a8b8e4f647","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"df3d20e6-b101-4c5d-9e9e-82a8b8e4f647","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"716d2f3c-075d-428e-ac0e-f0e1e3560ef3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"716d2f3c-075d-428e-ac0e-f0e1e3560ef3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"LayerId":{"name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","name":"716d2f3c-075d-428e-ac0e-f0e1e3560ef3","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 10.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"b0f2dad8-5c85-453d-a639-bb9501073138","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"19dd7182-1560-479a-bab9-93d9762597c5","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0849cd1d-54a6-4f5f-9e9a-2a91fa906efb","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"24b0906e-2203-4bc4-ad17-b0d644b92fe8","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"964c1d55-dda7-449b-ae4a-85a93dda7fd5","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"db08f28f-2352-4738-a2fa-e10014169c63","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2e14056c-808d-4aa6-960b-42b9583ca9b9","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0d9ff1ba-16e1-4a4c-9879-b51474353813","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f11bfc11-3b24-46de-844d-dac32b93616e","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4b5f33c8-c040-4c4d-a92b-a549393fb43e","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4491d0da-ade9-434a-b7fb-d4724dd3d4a3","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3523e525-57c0-4ab1-b451-c62149b76497","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"697b6f1a-c3ba-46f8-86d0-532b8b97e56f","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d5441635-dce9-49de-a595-cfa4219f1781","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1323dccd-72cb-4f91-af64-8945a58b2b47","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f9b43d76-6ecf-474a-a63c-87afc1251bc2","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"11bdfc53-ff45-47e6-9520-6fcd6363c9d7","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e5971e23-3508-4148-b0df-324b8ba91527","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"62497ced-1f6d-42da-a145-5d36e42143be","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d25cc3a9-68e0-4447-8404-05cc57d002f4","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5410f272-d019-4978-bdfd-591625fd0bd6","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"19510a1b-b2a6-4606-886f-7fb922f5bbc8","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6e50114e-3985-4737-b320-a43893473f47","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e6869076-21b4-41bf-aca3-2a30eb6ea9e3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"572402cd-b13a-497e-8dac-708dfa9e69b7","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"19cc6578-db63-4bb8-a959-71529bbdbeeb","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"67e5d6eb-9bc9-4706-a585-c9dfabbd1492","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7bdc2fc4-d987-4f5c-93dc-f2e22d20d364","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6a2d00a0-39c4-4808-9fcf-1cfcbb767ff5","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"948b4abc-0749-4962-b37b-f9857f8d43d2","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"64017da4-7bf1-4b81-bf31-5d882347134f","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"df242659-c3da-4825-ab93-243cb42bb9df","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9d55f923-a48d-410d-be70-1a41d2cae10f","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1ef9c1c0-d739-46ce-9e94-4a08cac5e56f","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e2060ae3-96a9-4b91-8e4a-d66fafdf1f61","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5149dc43-e769-49e1-89fc-be70b7031697","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"691d79be-1c12-493d-9177-a59ed89ad2f5","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f376b755-8ae1-4a00-b157-dc9b5f510df1","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"69b271fd-ee9b-4f01-bfb3-17c09402f7f7","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"74815bfe-0147-443b-91fa-f9b6c7cd20e6","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8d811d49-da15-4c50-a101-ee82d05302c5","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"01964cbb-9544-40c5-ba2c-99b48d159b34","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9ac230fb-a224-4dc5-b12c-dcaf3ed50330","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ba497377-f949-492a-b0e5-d329c07bfd50","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1329e6c5-fb35-473f-ad7d-779034c4557a","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"df3d20e6-b101-4c5d-9e9e-82a8b8e4f647","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8509613b-b69b-4e77-87c6-9844197a05f9","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"716d2f3c-075d-428e-ac0e-f0e1e3560ef3","path":"sprites/nova_logo_large/nova_logo_large.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 200,
+    "yorigin": 200,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"nova_logo_large","path":"sprites/nova_logo_large/nova_logo_large.yy",},
+    "resourceVersion": "1.3",
+    "name": "nova_logo_large",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0fc7a652-6f66-4a87-acbd-5cc68bb7d5d3","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "nova_logo_large",
+  "tags": [],
+  "resourceType": "GMSprite",
+}
